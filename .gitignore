@@ -1,0 +1,11 @@
+# Exports Processing
+application.linux*/
+application.windows*/
+application.macosx*/
+build/
+*.class
+
+# Environnements de développement
+.idea/
+.vscode/
+.DS_Store
